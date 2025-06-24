@@ -23,6 +23,25 @@ Here are some ideas to get you started:
 ## 🚀 Sobre mim
 
 🎓 Sou estudante de Engenharia da Computação e atualmente estagiário na GFT Technologies.  
+
+Sou apaixonado por desenvolvimento de software, com interesse especial nas áreas de:
+
+- Criação de jogos 2D e experiências interativas.
+- Automação de tarefas com Python (RPA).
+- Desenvolvimento de aplicações web (Angular e C#).
+- Inteligência Artificial e tecnologias emergentes.
+
+Atualmente, estudo e pratico para me tornar um desenvolvedor completo, combinando criatividade, lógica e boas práticas.
+
+
+## 📚 Estou aprendendo
+
+- **Python** (automação, bots)
+- **C# com Unity** (jogos 2D)
+- **Front-end básico** (HTML, CSS, Angular)
+- Desenvolvimento de Automações de RPA
+
+---
 <!-- 🔧 Tenho habilidades com:
 - Microserviços utilizando 
 - Desenvolvimento de jogos 2D em **Unity (C#)**
@@ -57,7 +76,7 @@ Here are some ideas to get you started:
 | 🌐 **Loja Afiliada Web** | Site em Angular para redirecionamento de afiliados (Shopee, Amazon, etc) | Angular, TypeScript |
 
 ---
--->
+
 
 ## 📈 GitHub Stats
 
@@ -67,6 +86,8 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+-->
 
 ## 📫 Como me encontrar
 
