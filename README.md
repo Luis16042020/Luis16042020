@@ -12,5 +12,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## HABILIDADES
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luis16042020&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<h1 align="center">Olá! 👋 Eu sou o Luis Corrêa</h1>
+
+<p align="center">
+  • 🧠 Estudante de Engenharia da Computação • 💻 Apaixonado por tecnologia
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Sou estudante de Engenharia da Computação e atualmente estagiário na GFT Technologies.  
+<!-- 🔧 Tenho habilidades com:
+- Microserviços utilizando 
+- Desenvolvimento de jogos 2D em **Unity (C#)**
+- Criação de bots com **Python (RPA, Selenium)**
+- Desenvolvimento de sites e automações usando **Power Apps**, **Excel** e **Angular**
+
+  
+💡 Meu objetivo é criar soluções tecnológicas inovadoras que impactem positivamente as pessoas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| 🎮 **Jogo 2D na Unity** | Aventura com desafios, ação e puzzles voltado para o público infantil e juvenil | Unity, C#, Aseprite |
+| 🤖 **RPA com Python** | Robô que preenche formulários com dados do Excel usando Selenium | Python, Pandas, Selenium |
+| 🌐 **Loja Afiliada Web** | Site em Angular para redirecionamento de afiliados (Shopee, Amazon, etc) | Angular, TypeScript |
+
+---
+-->
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Luis16042020&show_icons=true&theme=github_dark&count_private=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Luis16042020&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-corr%C3%AAa-193586219/)
+
+
