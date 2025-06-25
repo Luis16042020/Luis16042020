@@ -42,13 +42,13 @@ Atualmente, estudo e pratico para me tornar um desenvolvedor completo, combinand
 - Desenvolvimento de Automações de RPA
 
 ---
-<!-- 🔧 Tenho habilidades com:
-- Microserviços utilizando 
-- Desenvolvimento de jogos 2D em **Unity (C#)**
-- Criação de bots com **Python (RPA, Selenium)**
-- Desenvolvimento de sites e automações usando **Power Apps**, **Excel** e **Angular**
+🔧 Tenho habilidades com:
+- Microserviços utilizando .NET
+- Mensageria (RabbitMq)
+- Banco de dados (MySQL)
+- Front-End (HTML e CSS básico e Angular)
 
-  
+<!--
 💡 Meu objetivo é criar soluções tecnológicas inovadoras que impactem positivamente as pessoas.
 
 ---
@@ -64,16 +64,14 @@ Atualmente, estudo e pratico para me tornar um desenvolvedor completo, combinand
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-
+-->
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projeto em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🎮 **Jogo 2D na Unity** | Aventura com desafios, ação e puzzles voltado para o público infantil e juvenil | Unity, C#, Aseprite |
-| 🤖 **RPA com Python** | Robô que preenche formulários com dados do Excel usando Selenium | Python, Pandas, Selenium |
-| 🌐 **Loja Afiliada Web** | Site em Angular para redirecionamento de afiliados (Shopee, Amazon, etc) | Angular, TypeScript |
+| 🌐 **Site PetShop** | Site em Angular para agendamento de consultas para Pets | Angular, TypeScript, C#, MySQL, HTML, CSS, RabbitMq |
 
 ---
 
@@ -87,7 +85,7 @@ Atualmente, estudo e pratico para me tornar um desenvolvedor completo, combinand
 
 ---
 
--->
+
 
 ## 📫 Como me encontrar
 
