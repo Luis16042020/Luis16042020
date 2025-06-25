@@ -75,7 +75,15 @@ Atualmente, estudo e pratico para me tornar um desenvolvedor completo, combinand
 
 ---
 
+---
 
+## 📊 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis16042020&layout=compact&theme=github_dark&langs_count=6)
+
+---
+
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -84,7 +92,7 @@ Atualmente, estudo e pratico para me tornar um desenvolvedor completo, combinand
 </p>
 
 ---
-
+-->
 
 
 ## 📫 Como me encontrar
