@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Sobre mim
 
-🎓 Sou estudante de Engenharia da Computação e atualmente estagiário na GFT Technologies.  
+🎓 Sou estudante de Engenharia da Computação e atualmente Desenvolvedor Júnior na GFT Technologies.  
 
 Sou apaixonado por desenvolvimento de software, com interesse especial nas áreas de:
 
