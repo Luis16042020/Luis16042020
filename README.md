@@ -76,14 +76,6 @@ Atualmente, estudo e pratico para me tornar um desenvolvedor completo, combinand
 
 ---
 
----
-
-## 📊 Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luis16042020&layout=compact&theme=github_dark)
-
----
-
 <!--
 ## 📈 GitHub Stats
 
