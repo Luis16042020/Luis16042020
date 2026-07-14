@@ -72,6 +72,7 @@ Atualmente, estudo e pratico para me tornar um desenvolvedor completo, combinand
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🌐 **Site PetShop** | Site em Angular para agendamento de consultas para Pets | Angular, TypeScript, C#, MySQL, HTML, CSS, RabbitMq |
+| **crewAI-Code-Review-Agent** | Agentes de IA para revisão de código e repositórios do GitHub | Python, CrewAI, Flask, LLMs |
 
 ---
 
