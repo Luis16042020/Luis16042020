@@ -47,6 +47,7 @@ Atualmente, estudo e pratico para me tornar um desenvolvedor completo, combinand
 - Mensageria (RabbitMq)
 - Banco de dados (MySQL)
 - Front-End (HTML e CSS básico e Angular)
+- Desenvolvimento de automações RPA (Python e Power Automate Desktop)
 
 <!--
 💡 Meu objetivo é criar soluções tecnológicas inovadoras que impactem positivamente as pessoas.
